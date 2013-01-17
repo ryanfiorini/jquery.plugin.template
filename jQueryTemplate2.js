@@ -1,5 +1,5 @@
 /*
-	Courtsey of jQyer Docs.
+	Courtsey of jQuery Docs.
 	http://docs.jquery.com/Plugins/Authoring
 */
 
